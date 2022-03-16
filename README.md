@@ -1,2 +1,13 @@
 # Global Aquaculture Production
-This is a final project for IDS 702
+
+Below are the summary, introduction, and conclusion to the final report of this analysis.
+
+### Summary 
+The global aquaculture sector has the potential to greatly reduce the effect that increasing greenhouse gas emissions have had on the Earth. Sustainable aquaculture practices can battle the phenomenon of ocean acidification (through carbon sequestration). Thus, investigating the countries that have had an aquaculture sector in place or have increased their production over the years can inform how to increase production amongst the rest of the world now and into the future.
+I have shown a correlation between the amount of aquaculture that a country produces over time and demographic factors such as GDP per capita, population density, and the gender parity index in primary schools. There are of course many outside variables that have not been controlled for such as location, economic demand, and the divisions within a country’s agriculture sector. My aim is simply to show that as these demographic indictors grow towards more equality and more wealth, so too does the production of aquaculture.
+
+### Introduction
+In this research, I focus on how the rate of aquaculture production has developed globally since the 1960s, what qualities are attributed to countries with high rates of production, and what relationship can be determined between these demographic factors and production rates. The chosen demographics that are included in the model for aquaculture production are GDP per capita, carbon dioxide emissions, population density, urban population percentage, the years that people spend in primary school, and the gender parity index in primary school.
+
+### Conclusions
+Despite the many hidden confounding variables, this research has opened a window into how countries can increase their aquaculture production. Overall, greater equality, access to primary education, and higher wealth appear to be strong signifiers in how much a country produces. Of course, one of the biggest limitations in this analysis was missing data. Many of the World Development Index indicators were unusable due to a large proportion of missing observations. Additionally, the hidden variables limit how much can be interpreted. But they do not have to be a limitation going forward – additional geospatial information can be acquired to further inform how certain countries produce more aquaculture than others, and even chemical ocean acidification data can be gathered in those regions to determine if aquaculture does indeed have as great an impact at battling the effects of climate change as many proponents of the practice proclaim it does.
